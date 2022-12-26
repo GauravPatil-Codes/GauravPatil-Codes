@@ -1,4 +1,4 @@
-Introduction
+
 Welcome to my GitHub account! My name is Gaurav Navalsing Patil and I am a Full Stack Web Developer.
 
 Skills
