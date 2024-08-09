@@ -1,5 +1,5 @@
 
-Welcome to my GitHub account! My name is Gaurav Navalsing Patil and I am a Full Stack Web Developer.
+Welcome to my GitHub account! My name is Gaurav Navalsing Patil and I am a Full Stack Java Developer.
 
 Skills
 Teamwork and Collaboration
